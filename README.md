@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 </a>
 
 <div>
-   <h1>Hi there, I'm <a href="https://hemant.codes">UDAY SARKAR</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">UDAY SARKAR</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
    
-   
-   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+   <h3>MERN Stack Developer | Dhaka, Bangladesh</h3>
 </div>
 
 <p>
