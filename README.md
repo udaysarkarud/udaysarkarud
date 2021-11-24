@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Technology and tools -->
-### - Languages and Tools...
+### Technologies and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
