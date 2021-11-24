@@ -31,6 +31,17 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 <!-- End Technology and tools -->
+
+### Gihub Overview...
+<!--Status-->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=udaysarkarud&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="uday's Github Stats" width="60%">
+
+<!--END_Status-->
+
+<!--Languages-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysarkarud&show_icons=true&hide_border=true&theme=radical" width="37%" alt="uday's Top Languages">
+<!--END_Languages-->
+
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
