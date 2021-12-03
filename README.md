@@ -29,17 +29,17 @@
   <a href="#"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"></a> 
 </p>
 <!-- End Technology and tools -->
-
+<!--
 ### :zap: Recent Activity:
 
-<!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#78](https://github.com/APLA-Toolbox/PythonPDDL/pull/78) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 2. 💪 Opened PR [#79](https://github.com/APLA-Toolbox/PythonPDDL/pull/79) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 3. 💪 Opened PR [#78](https://github.com/APLA-Toolbox/PythonPDDL/pull/78) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 4. ❗️ Closed issue [#7](https://github.com/APLA-Toolbox/PythonPDDL/issues/7) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 5. ❗️ Opened issue [#77](https://github.com/APLA-Toolbox/PythonPDDL/issues/77) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-<!--END_SECTION:activity-->
 
+-->
 ### Gihub Overview...
 <!--Status-->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=udaysarkarud&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="uday's Github Stats" width="60%">
