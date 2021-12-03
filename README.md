@@ -1,3 +1,6 @@
+<!--Languages-->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysarkarud&show_icons=true&hide_border=true&theme=radical" width="37%" alt="uday's Top Languages">
+<!--END_Languages-->
 
 
 <div>
@@ -44,8 +47,5 @@
 
 <!--END_Status-->
 
-<!--Languages-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysarkarud&show_icons=true&hide_border=true&theme=radical" width="37%" alt="uday's Top Languages">
-<!--END_Languages-->
 
 
