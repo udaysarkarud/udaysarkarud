@@ -7,7 +7,7 @@
 <div>
    <h1>Hi there, I'm <a href="https://hemant.codes">UDAY SARKAR</a></h1>
    <h3>MERN Stack Developer | Dhaka, Bangladesh</h3>
-  I'm a **Machine Learning Engineer**, graduated in **2020** from **Uttar Pradesh Technical University** in **Computer Science** stream. My day to day work revolves around building Machine Learning models for various interseting problems and deploying them to production, at scale. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
+  Hi! My name is Uday Sarkar and I am a MERN Stack developer from Bangladesh with few years of experience. Most of my projects are custom business automation solutions built from scratch using React, NodeJS, Express, AWS, etc. I have a strong technical mind, extensive experience in solving challenges and a lot of enthusiasm to help you.
 </div>
 
 <!-- Technology and tools -->
