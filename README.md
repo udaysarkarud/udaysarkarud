@@ -1,8 +1,4 @@
-<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-  <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
-    alt="spotify" />
-</a>
+
 
 <div>
    <h1>Hi there, I'm <a href="https://hemant.codes">UDAY SARKAR</a></h1>
