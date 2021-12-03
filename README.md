@@ -1,6 +1,8 @@
-<!--Languages-->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysarkarud&show_icons=true&hide_border=true&theme=radical" width="37%" alt="uday's Top Languages">
-<!--END_Languages-->
+<a href="#">
+  <img align="right"
+    src="https://ih1.redbubble.net/image.971407862.9668/st,small,507x507-pad,600x600,f8f8f8.jpg"
+    alt="spotify" width="375"/>
+</a>
 
 
 <div>
@@ -47,6 +49,9 @@
 
 <!--END_Status-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+<!--Languages-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysarkarud&show_icons=true&hide_border=true&theme=radical" width="37%" alt="uday's Top Languages">
+<!--END_Languages-->
